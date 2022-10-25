@@ -1,9 +1,8 @@
 .header__lang-links {
-  margin: 0;
+  margin: 46px 48px 0 0;
   padding: 0;
   display: flex;
   flex-direction: row;
-  margin: 46px 48px 0 0;
 }
 
 @media screen and (max-width: 984px) {
