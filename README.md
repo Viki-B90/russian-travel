@@ -13,4 +13,4 @@
 
 Просмотреть проект можно по ссылке на GitHub Pages:
 
-[Ссылка на проект](https://https://viki-b90.github.io/russian-travel/)
+[Ссылка на проект](https://https://viki-b90.github.io/russian-travel/index.html)
