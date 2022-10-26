@@ -21,6 +21,14 @@
   }
 }
 
+@media screen and (max-width: 656px) {
+  .footer__link {
+    margin: 88px 14px 24px 0;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+
 @media screen and (max-width: 568px) {
   .footer__link {
     margin: 0 0 32px;
