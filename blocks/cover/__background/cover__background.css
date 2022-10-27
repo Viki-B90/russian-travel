@@ -15,6 +15,8 @@
 }
 
 .cover__background::before {
+  width: 100%;
+  height: 100%;
   content: '';
   background: #2a2c2f;
   opacity: .3;

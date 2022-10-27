@@ -17,15 +17,25 @@
 
 @media screen and (max-width: 984px) {
   .footer__link {
-    margin: 88px 18px 24px 0;
+    margin-top: 88px;
   }
 }
 
 @media screen and (max-width: 656px) {
   .footer__link {
-    margin: 88px 14px 24px 0;
+    margin-left: 14px;
+    margin-right: 14px;
     font-size: 14px;
     line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .footer__link {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 13px;
+    line-height: 15px;
   }
 }
 

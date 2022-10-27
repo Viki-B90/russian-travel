@@ -1,5 +1,4 @@
 .footer {
-  font-family: 'Inter', Arial, sans-serif;
   display: flex;
   justify-content: space-between;
   padding: 0 48px;
@@ -9,14 +8,21 @@
 
 @media screen and (max-width: 984px) {
   .footer {
-    padding: 0 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .footer {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .footer {
     padding: 64px 0 0 16px;
-    display: flex;
     flex-direction: column;
     flex-wrap: wrap;
   }
