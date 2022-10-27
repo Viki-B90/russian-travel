@@ -1,0 +1,25 @@
+.header__lang {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  color: white;
+  margin: 0;
+  padding-left: 0;
+  padding-right: 18px;
+  text-decoration: none;
+}
+
+.header__lang:last-child {
+  padding-right: 0;
+}
+
+.header__lang:hover {
+  opacity: .8;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
